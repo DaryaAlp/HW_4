@@ -1,0 +1,15 @@
+D:\Курсы_программирование\C#\HW_4\Задача 29\obj\Debug\net7.0\Задача 29.csproj.AssemblyReference.cache
+D:\Курсы_программирование\C#\HW_4\Задача 29\obj\Debug\net7.0\Задача 29.GeneratedMSBuildEditorConfig.editorconfig
+D:\Курсы_программирование\C#\HW_4\Задача 29\obj\Debug\net7.0\Задача 29.AssemblyInfoInputs.cache
+D:\Курсы_программирование\C#\HW_4\Задача 29\obj\Debug\net7.0\Задача 29.AssemblyInfo.cs
+D:\Курсы_программирование\C#\HW_4\Задача 29\obj\Debug\net7.0\Задача 29.csproj.CoreCompileInputs.cache
+D:\Курсы_программирование\C#\HW_4\Задача 29\bin\Debug\net7.0\Задача 29.exe
+D:\Курсы_программирование\C#\HW_4\Задача 29\bin\Debug\net7.0\Задача 29.deps.json
+D:\Курсы_программирование\C#\HW_4\Задача 29\bin\Debug\net7.0\Задача 29.runtimeconfig.json
+D:\Курсы_программирование\C#\HW_4\Задача 29\bin\Debug\net7.0\Задача 29.dll
+D:\Курсы_программирование\C#\HW_4\Задача 29\bin\Debug\net7.0\Задача 29.pdb
+D:\Курсы_программирование\C#\HW_4\Задача 29\obj\Debug\net7.0\Задача 29.dll
+D:\Курсы_программирование\C#\HW_4\Задача 29\obj\Debug\net7.0\refint\Задача 29.dll
+D:\Курсы_программирование\C#\HW_4\Задача 29\obj\Debug\net7.0\Задача 29.pdb
+D:\Курсы_программирование\C#\HW_4\Задача 29\obj\Debug\net7.0\Задача 29.genruntimeconfig.cache
+D:\Курсы_программирование\C#\HW_4\Задача 29\obj\Debug\net7.0\ref\Задача 29.dll

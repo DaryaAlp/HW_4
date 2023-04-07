@@ -1,0 +1,15 @@
+D:\Курсы_программирование\C#\HW_4\Задача 27\bin\Debug\net7.0\Задача 27.exe
+D:\Курсы_программирование\C#\HW_4\Задача 27\bin\Debug\net7.0\Задача 27.deps.json
+D:\Курсы_программирование\C#\HW_4\Задача 27\bin\Debug\net7.0\Задача 27.runtimeconfig.json
+D:\Курсы_программирование\C#\HW_4\Задача 27\bin\Debug\net7.0\Задача 27.dll
+D:\Курсы_программирование\C#\HW_4\Задача 27\bin\Debug\net7.0\Задача 27.pdb
+D:\Курсы_программирование\C#\HW_4\Задача 27\obj\Debug\net7.0\Задача 27.csproj.AssemblyReference.cache
+D:\Курсы_программирование\C#\HW_4\Задача 27\obj\Debug\net7.0\Задача 27.GeneratedMSBuildEditorConfig.editorconfig
+D:\Курсы_программирование\C#\HW_4\Задача 27\obj\Debug\net7.0\Задача 27.AssemblyInfoInputs.cache
+D:\Курсы_программирование\C#\HW_4\Задача 27\obj\Debug\net7.0\Задача 27.AssemblyInfo.cs
+D:\Курсы_программирование\C#\HW_4\Задача 27\obj\Debug\net7.0\Задача 27.csproj.CoreCompileInputs.cache
+D:\Курсы_программирование\C#\HW_4\Задача 27\obj\Debug\net7.0\Задача 27.dll
+D:\Курсы_программирование\C#\HW_4\Задача 27\obj\Debug\net7.0\refint\Задача 27.dll
+D:\Курсы_программирование\C#\HW_4\Задача 27\obj\Debug\net7.0\Задача 27.pdb
+D:\Курсы_программирование\C#\HW_4\Задача 27\obj\Debug\net7.0\Задача 27.genruntimeconfig.cache
+D:\Курсы_программирование\C#\HW_4\Задача 27\obj\Debug\net7.0\ref\Задача 27.dll
